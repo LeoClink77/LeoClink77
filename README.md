@@ -27,11 +27,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
           
- <br>
+ <hr>
  <p align="center">
   <a target="_blank" href="https://discord.com/users/1046980244554383430"><img href="https://discord.com/users/1046980244554383430" src="https://lanyard.cnrad.dev/api/1046980244554383430?bg=0c0c1e&borderRadius=20px&animated=true&idleMessage=Estou%20fazendo%20nada%20agora..." width="450px"></a>
 </p>
-<br>  
+<hr>  
           
 
 <!--
