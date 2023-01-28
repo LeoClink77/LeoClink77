@@ -10,8 +10,10 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/LeoClink77?label=Follow&style=social" alt="github followers" /><br>
+    <img src="https://img.shields.io/github/followers/LeoClink77 ?label=Follow&style=social" alt="github followers" /><br>
     <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeoClink77&show_icons=true&theme=dark" alt="whoisdon" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&theme=dark" alt="whoisdon" />
     
 </p>
 
