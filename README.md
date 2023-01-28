@@ -6,19 +6,17 @@
 - 🤔 Estou procurando ajuda com: Javscript e Python
 - 💬 Pergunte-me sobre: Photoshop, Html, Css, Git, Figma...
 - 📫 Como entrar em contato comigo: No final deste readme terá a forma de entrar em contato comigo
-- ⚡ Curiosidade:
+- ⚡ Curiosidade: Nasci em Sp capital cidade onde moro hoje em dia 
 
 ## 
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/LeoClink77 ?label=Follow&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=LeoClink77&show_icons=true&theme=dark" alt="whoisdon" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&theme=dark" alt="whoisdon" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LeoClink77&show_icons=true&theme=dark" alt="LeoClink77" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoClink77&theme=dark" alt="LeoClink77" />
     
 </p>
-
-
 
 ##  Tecnologias
 
