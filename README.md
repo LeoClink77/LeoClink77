@@ -6,7 +6,8 @@
 - 🤔 Estou procurando ajuda com: Javscript e Python
 - 💬 Pergunte-me sobre: Photoshop, Html, Css, Git, Figma...
 - 📫 Como entrar em contato comigo: No final deste readme terá a forma de entrar em contato comigo
-- ⚡ Curiosidade: Nasci em Sp capital cidade onde moro hoje em dia 
+- ⚡ Curiosidade: Nasci em Sp capital cidade onde moro hoje em dia. Tenho 14 anos e meu sonho é ser designer full-stack.
+Programo desde os 13 e edito desde os 10, é pouco mas é isso 😋.
 
 ## 
 
