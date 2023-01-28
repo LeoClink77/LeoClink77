@@ -15,6 +15,10 @@
     
 </p>
 
+<p align="center">
+  <a target="_blank" href="https://discord.com/users/1046980244554383430"><img href="https://discord.com/users/1046980244554383430" src="https://lanyard.cnrad.dev/api/1046980244554383430?bg=0c0c1e&borderRadius=20px&animated=true&idleMessage=Estou%20fazendo%20nada%20agora..." width="450px"></a>
+</p>
+
 ##  Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
