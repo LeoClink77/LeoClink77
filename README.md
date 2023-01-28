@@ -12,8 +12,6 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/LeoClink77?label=Follow&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?LeoClink77=nome&show_icons=true&theme=dark" alt="LeoClink77" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?LeoClink77=whoisdon&theme=dark" alt="LeoClink77" />
     
 </p>
 
